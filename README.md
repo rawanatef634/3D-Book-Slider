@@ -2,7 +2,9 @@
 
 A stunning **3D Book Slider** built with **React Three Fiber** and **Three.js**, allowing smooth page-turning animations and interactive book flipping effects.
 
----
+## 🖼️ Demo
+
+https://3d-book-slider-three.vercel.app/
 
 ## 🚀 Features
 
@@ -49,12 +51,6 @@ Then, open **http://localhost:5173** in your browser.
 - **Three.js** – 3D graphics engine
 - **@react-three/drei** – Helper utilities for Three.js
 - **React Spring** – Smooth animations
-
----
-
-## 🖼️ Preview
-
-![Demo GIF](https://your-demo-gif-url.com)
 
 ---
 
